@@ -33,6 +33,9 @@ const Home = () => (
         className="home-desktop-img"
       />
     </div>
+    <a href="https://www.linkedin.com/in/premrathan/" className="prem-Rathan">
+      This is Developed by Prem Rathan
+    </a>
   </>
 )
 

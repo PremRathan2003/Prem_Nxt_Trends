@@ -107,3 +107,12 @@
     font-size: 16px;
   }
 }
+.prem-Rathan {
+  font-family: Roboto;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  font-size: 12px;
+  margin-left: 30px;
+  align-self: flex-end;
+}
